@@ -7,4 +7,4 @@ Segundo ingrese a la carpeta llamada codigos y copie el codigo de un atajo
 
 Tercero abre el instalador y ingrese el codigo
 
-Cuarto 
+Cuarto disfrute de tu atajo
